@@ -1,0 +1,7 @@
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\bin\Debug\ExtensionMetods.exe.config
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\bin\Debug\ExtensionMetods.exe
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\bin\Debug\ExtensionMetods.pdb
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\obj\Debug\ExtensionMetods.csprojAssemblyReference.cache
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\obj\Debug\ExtensionMetods.csproj.CoreCompileInputs.cache
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\obj\Debug\ExtensionMetods.exe
+Z:\C#\Advanced\c3_extentionMetod\ExtentionMetods\ExtensionMetods\obj\Debug\ExtensionMetods.pdb
